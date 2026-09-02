@@ -3,7 +3,7 @@ title: EmailEvents table in the advanced hunting schema
 description: Learn about events associated with Microsoft 365 emails in the EmailEvents table of the advanced hunting schema
 ms.service: defender-xdr
 ms.subservice: adv-hunting
-ms.author: pauloliveria
+ms.author: ajajshaikh
 author: ajaj-shaikh
 ms.localizationpriority: medium
 ms.collection: 
